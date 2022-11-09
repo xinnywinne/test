@@ -1,0 +1,5 @@
+resources:
+- ../render-helm-chart
+
+namespace: foo
+
